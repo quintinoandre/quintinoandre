@@ -21,7 +21,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quintinoandre&show_icons=true&theme=vision-friendly-dark" alt="André Quintino Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintinoandre&layout=compact&theme=vision-friendly-dark" alt="André Quintino most languages"/>
 </div>
