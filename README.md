@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quintioandre&color=yellow" alt="Profile Views" /> </p>
 
 - 🔥 Web Developer focused on learning every day and helping people
-- 🔭 I’m currently search for a new challenge [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pandrequintino)](https://www.linkedin.com/in/pandrequintino)
+- 🔭 I’m currently search for a new challenge <a href="https://linkedin.com/in/pandrequintino" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 - 💬 Ask me about **JavaScript, NodeJS, React, HTML, CSS**
 - 📫 How to reach me: @quintinoandre
 <br><br>
@@ -31,7 +32,7 @@
 
 <div  style="background:yellow">
 <a href="https://linkedin.com/in/pandrequintino" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-andrequintino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </div>
 
