@@ -1,4 +1,4 @@
-<h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Quintino</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm André Quintino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quintioandre&color=yellow" alt="Profile Views" /> </p>
 
 - 🔥 Web Developer focused on learning every day and helping people
