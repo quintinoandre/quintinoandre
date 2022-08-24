@@ -4,7 +4,7 @@
 - 🔥 Web Developer focused on learning every day and helping people
 - 🔭 I’m currently search for a new challenge <a href="https://linkedin.com/in/pandrequintino" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-- 💬 Ask me about **JavaScript, NodeJS, React, HTML, CSS**
+- 💬 Ask me about **Java, JavaScript, NodeJS, React, HTML, CSS**
 - 📫 How to reach me: @quintinoandre
 <br><br>
 ## 🛠 &nbsp;Tech Stack
