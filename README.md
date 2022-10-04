@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=quintinoandre&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintinoandre&layout=compact&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quintinoandre&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintinoandre&layout=compact&theme=dracula" />
 </div>
 <br>
 
