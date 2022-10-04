@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quintinoandre&show_icons=true&theme=vision-friendly-dark" alt="André Quintino Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintinoandre&layout=compact&theme=vision-friendly-dark" alt="André Quintino most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quintinoandre&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" alt="André Quintino Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="André Quintino most languages"/>
 </div>
 <br>
 
