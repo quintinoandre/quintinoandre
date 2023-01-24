@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quintioandre&color=yellow" alt="Profile Views" /> </p>
 
 - 🔥 Web Developer focused on learning every day and helping people
-- 🔭 I’m currently search for a new challenge <a href="https://linkedin.com/in/pandrequintino" target="_blank">
+- 🔭 I am currently employed as a DevOps Engineer at Cocus Portugal Company <a href="https://linkedin.com/in/pandrequintino" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 - 💬 Ask me about **Java, JavaScript, NodeJS, React, HTML, CSS**
 - 📫 How to reach me: @quintinoandre
