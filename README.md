@@ -1,10 +1,10 @@
 <h1 align="left">Hi there 👋🏼, I'm André Quintino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quintioandre&color=yellow" alt="Profile Views" /> </p>
 
-- 🔥 Web Developer focused on learning every day and helping people
-- 🔭 I am currently employed as a Platform Engineer at TUI Technology Portugal Company <a href="https://linkedin.com/in/pandrequintino" target="_blank">
+- 🔥 AI Engineer focused on learning every day and helping people
+- 🔭 I am currently employed as a AI Engineer at TUI Technology Portugal Company <a href="https://linkedin.com/in/pandrequintino" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-- 💬 Ask me about **JavaScript, NodeJS, Python, Java, React, HTML, CSS**
+- 💬 Ask me about **LangGraph, MCP, JavaScript, NodeJS, Python, Java, React, HTML, CSS**
 - 📫 How to reach me: @quintinoandre
 <br><br>
 ## 🛠 &nbsp;Tech Stack
